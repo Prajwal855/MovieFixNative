@@ -24,7 +24,7 @@ git clone https://github.com/Prajwal855/MovieFixNative.git
 
 - Navigate inside the project directory created
 ```bash
-cd MovieFix
+cd MovieFixNative
 ```
 - And run this command to install the dependencies
 ```bash
